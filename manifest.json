@@ -1,0 +1,10 @@
+{
+	"id": "tos-picbed",
+	"name": "TOS Picbed",
+	"version": "1.0.0",
+	"minAppVersion": "1.5.7",
+	"description": "Used to automatically upload pictures to TOS and delete remote files when pictures are deleted",
+	"author": "yv1ing",
+	"authorUrl": "https://github.com/yv1ing",
+	"isDesktopOnly": false
+}
